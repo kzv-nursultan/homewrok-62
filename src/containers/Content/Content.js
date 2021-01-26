@@ -52,7 +52,6 @@ const Content = () => {
                 order.map(item=>{
                     const params = new URLSearchParams(item);
                     array.push(params.toString());
-                    console.log(array);
                 });
                 return (
                     history.push({
