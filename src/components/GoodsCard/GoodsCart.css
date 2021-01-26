@@ -1,0 +1,8 @@
+.card:hover{
+    border: 1px solid red;
+}
+
+.card-img{
+    width: 200px;
+    height: 200px;
+}
